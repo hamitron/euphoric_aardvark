@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  avail_date_start: 2015-08-25 15:55:40
+  avail_date_end: 2015-08-25 15:55:40
+  fk_primary_user: 1
+  fk_activity_entry_id: 1
+
+two:
+  avail_date_start: 2015-08-25 15:55:40
+  avail_date_end: 2015-08-25 15:55:40
+  fk_primary_user: 1
+  fk_activity_entry_id: 1
